@@ -25,9 +25,5 @@ int main (){
 
 }
 
-next morning task : complte 5 lecture of c ++ with code ,
 
-Dl - project structure and new project implement start,
-
-Ml 3 lecture 
 
