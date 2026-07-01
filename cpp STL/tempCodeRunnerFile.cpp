@@ -1,2 +1,2 @@
-nt hai
-    // it k baad saare duplicate element hai 
+.begin(),arr.end());
+    // cout << *it << endl;
